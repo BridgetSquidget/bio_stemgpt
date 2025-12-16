@@ -1,10 +1,26 @@
 # hackathon
 
 ## Team
-- Bridget Vincent @BridgetSquidget, Ph.D. candidate Eco, evo, marine bio
-- Arielle Rothman, M.S. Bio(?) (defending in early dec, woohoo!!!)
+- Bridget Vincent @BridgetSquidget, Ph.D. candidate Eco, evo, marine bio, UC Santa Barbara
+- Arielle Rothman, M.S. Bio(?) (Freshly defended, woohoo!!!), University of Toronto
 - Saurin Rajesh Savla, M.S. Comp Sci student
+- Fanzhi (Clark) Su, University of Campbridge
 
+Note: This project is being developed as part of the AI and ML for Microscopy HYackathon.
+
+## Overview
+
+This project aims to create a chatbot to assist biologists in segmenting and exploring their TEM data. 
+
+## Usage
+
+## Best Practices
+
+## Training Data
+
+## File Organization
+
+# The stuff we'll get rid of before the final submission
 ## Notes and Brainstorming
 - What we're looking for in teammates
   - TBD
